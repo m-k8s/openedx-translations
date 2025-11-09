@@ -26825,3 +26825,8 @@ msgstr "Placer votre texte de droits d'auteur ici!"
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "Éditeur de code"
+
+#: themes/indigo/lms/templates/footer.html:32
+#: themes/indigo/lms/templates/footer.html:96
+msgid "Powered by:"
+msgstr "Propulsé par :"
